@@ -5,7 +5,7 @@
 ===============================================================================
 
   Script Python unico e comentado, para acompanhar os slides da aula.
-  Basta ter numpy e matplotlib instalados (ja vem nos dois no Colab).
+  Basta ter numpy e matplotlib instalados (ja vem nos dois no Colab), entendeu?
 
   COMO USAR
   ---------
